@@ -1,0 +1,3 @@
+Revista 1;Autor 1;2000;3;Tecnologia
+Revista 2;Autor 1;2000;3;Tecnologia
+Revista 3;Autor 1;2000;3;Biologia
