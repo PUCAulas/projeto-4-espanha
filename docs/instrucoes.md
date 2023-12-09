@@ -35,13 +35,13 @@ Ao iniciar o sistema, você terá seis opções:
 3. **Pesquisar Por Ano:** Solicita o ano de publicação a ser pesquisado e lista todos os itens que possuem o ano de publicação pesquisado e seus dados cadastrados. Para acessar esta opção, digite `3`.
 4. **Pesquisar Por Tipo:** Abre o menu pesquisa por tipo. Para acessar esta opção, digite `4`.
    ### Menu Pesquisa Por Tipo
-   1. **Pesquisar Livros:** Lista todos os livros e suas informações cadastradas. Para acessar esta opção, digite `1`. 
-   2. **Pesquisar Revistas:** Lista todas as revistas e suas informações cadastradas. Para acessar esta opção, digite `2`.
-   3. **Pesquisar Teses:** Lista todas as teses e suas informações cadastradas. Para acessar esta opção, digite `3`.
-   4. **Pesquisar CDs:** Lista todos os CDs e suas informações cadastradas. Para acessar esta opção, digite `4`.
-   5. **Pesquisar DVDs:** Lista todos os DVDs e suas informações cadastradas. Para acessar esta opção, digite `5`.
-   6. **Voltar:** Para voltar para o menu pesquisas, digite `6`.
-   7. **Voltar:** Para voltar para o menu principal do sistema, digite `5`
+1. **Pesquisar Livros:** Lista todos os livros e suas informações cadastradas. Para acessar esta opção, digite `1`. 
+2. **Pesquisar Revistas:** Lista todas as revistas e suas informações cadastradas. Para acessar esta opção, digite `2`.
+3. **Pesquisar Teses:** Lista todas as teses e suas informações cadastradas. Para acessar esta opção, digite `3`.
+4. **Pesquisar CDs:** Lista todos os CDs e suas informações cadastradas. Para acessar esta opção, digite `4`.
+5. **Pesquisar DVDs:** Lista todos os DVDs e suas informações cadastradas. Para acessar esta opção, digite `5`.
+6. **Voltar:** Para voltar para o menu pesquisas, digite `6`.
+7. **Voltar:** Para voltar para o menu principal do sistema, digite `5`
    
 ## Menu Empréstimos
 1. **Realizar Empréstimo:** Solicita o ID do usuário que irá realizar o empréstimo, e o título e o tipo do item (Livro, CD ou DVD) a ser emprestado, se o usuário não tiver atingido o limite de 3 empréstimos simultâneos atingido, tal empréstimo é realizado. Para acessar esta opção, digite `1`.
