@@ -16,4 +16,5 @@ O objetivo desse trabalho é desenvolver um sistema de gerenciamento de bibliote
 ## Professor responsável 
 
 * Johnatan Alves de Oliveira
+* Juliana Padilha
 
