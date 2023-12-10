@@ -1,0 +1,3 @@
+Thiago;100;1;Engenharia de Software;Tecnologia,Biologia
+Joao;12;2;Medicina;Tecnologia
+Enzo;90;3;Engenharia de Software;Tecnologia
