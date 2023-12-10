@@ -3,6 +3,8 @@
 
 Projeto 4 - Laboratório de Programação Modular
 
+O objetivo desse trabalho é desenvolver um sistema de gerenciamento de biblioteca em Java, que seja capaz de lidar com diferentes tipos de itens, sendo eles: Livros, teses, revistas, CDs e DVDs. Além disso, o sistema deve permitir gerenciar os usuários, cadastrar, pesquisar e editar itens da biblioteca, realizar empréstimos e gerar relatórios. O sistema também deverá controlar a disponibilidade dos itens e o número máximo de empréstimos simultâneos por parte de cada usuário. O sistema utiliza conceitos de programação orientada a objetos e programação modular, como herança e interfaces. Além disso, o sistema utiliza a estrutura de teste JUnit para verificar o funcionamento do código.
+
 ## Alunos integrantes da equipe
 
 * Alberto da Costa Reis Junior
